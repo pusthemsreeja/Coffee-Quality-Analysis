@@ -30,5 +30,4 @@ The report explores how **sensory attributes, processing methods, altitude, orig
 ## 🚀 How to Use
 1. Clone this repository  
    ```bash
-   git clone https://github.com/pusthemsreeja/Coffee_Quality_Analysis.git
-
+   git clone https://github.com/pusthemsreeja/Coffee-Quality-Analysis.git
