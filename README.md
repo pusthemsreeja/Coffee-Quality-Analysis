@@ -6,11 +6,11 @@ The report explores how **sensory attributes, processing methods, altitude, orig
 
 ## 🔑 Key Insights
 1. **Altitude Effect** – Higher altitude coffees score better (Very High: ~84.7 vs Low: ~83.4).  
-2. **Variety Impact** – Gesha (85.4), SL34 (84.9), and Ethiopian Heirlooms (84.7) lead in quality.  
-3. **Processing Methods** – Double Anaerobic (89) and Honey/Mossto (87) outperform traditional Washed/Natural (~83–84).  
-4. **Origin & Region** – Colombian regions (*Piendamo Cauca: 89*) and Ethiopia consistently deliver top scores.  
-5. **Sensory Drivers** – Aroma, Flavor, Acidity, and Body are most correlated with TCP.  
-6. **Defects Impact** –  
+2. **Variety Impact** – Castillo (89.33),Red Bourbon (87.08), SL34+Gesha (86.75), lead in quality.  
+4. **Processing Methods** – Double Anaerobic (89) and Honey/Mossto (87) outperform traditional Washed/Natural (~83–84).  
+5. **Origin & Region** – Colombian regions (*Piendamo Cauca: 89*) and Ethiopia consistently deliver top scores.  
+6. **Sensory Drivers** – Aroma, Flavor, Acidity, and Body are most correlated with TCP.  
+7. **Defects Impact** –  
    - Category One defects → sharp quality loss.  
    - Category Two defects → gradual erosion.  
    - Quakers >5 → drop of ~3–5 points, often below specialty threshold.  
